@@ -1,16 +1,16 @@
 package edgecenterrmon
 
 import (
-	"github.com/Edge-Center/edgecenterrmon-go/channel"
-	"github.com/Edge-Center/edgecenterrmon-go/checkgroup"
-	"github.com/Edge-Center/edgecenterrmon-go/checks/checkdns"
-	"github.com/Edge-Center/edgecenterrmon-go/checks/checkhttp"
-	"github.com/Edge-Center/edgecenterrmon-go/checks/checkping"
-	"github.com/Edge-Center/edgecenterrmon-go/checks/checkrabbitmq"
-	"github.com/Edge-Center/edgecenterrmon-go/checks/checksmtp"
-	"github.com/Edge-Center/edgecenterrmon-go/checks/checktcp"
-	"github.com/Edge-Center/edgecenterrmon-go/edgecenter"
-	"github.com/Edge-Center/edgecenterrmon-go/statuspage"
+	"github.com/Edge-Center/edgecenteredgemon-go/channel"
+	"github.com/Edge-Center/edgecenteredgemon-go/checkgroup"
+	"github.com/Edge-Center/edgecenteredgemon-go/checks/checkdns"
+	"github.com/Edge-Center/edgecenteredgemon-go/checks/checkhttp"
+	"github.com/Edge-Center/edgecenteredgemon-go/checks/checkping"
+	"github.com/Edge-Center/edgecenteredgemon-go/checks/checkrabbitmq"
+	"github.com/Edge-Center/edgecenteredgemon-go/checks/checksmtp"
+	"github.com/Edge-Center/edgecenteredgemon-go/checks/checktcp"
+	"github.com/Edge-Center/edgecenteredgemon-go/edgecenter"
+	"github.com/Edge-Center/edgecenteredgemon-go/statuspage"
 )
 
 type ClientService interface {

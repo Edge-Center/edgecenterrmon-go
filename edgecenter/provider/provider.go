@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Edge-Center/edgecenterrmon-go/edgecenter"
+	"github.com/Edge-Center/edgecenteredgemon-go/edgecenter"
 )
 
 type Client struct {
