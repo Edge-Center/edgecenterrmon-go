@@ -1,8 +1,9 @@
-module github.com/Edge-Center/edgecenterrmon-go
+module github.com/Edge-Center/edgecenteredgemon-go
 
 go 1.25.3
 
 require (
+	github.com/Edge-Center/edgecenterrmon-go v0.0.2
 	github.com/stretchr/testify v1.11.1
 )
 
