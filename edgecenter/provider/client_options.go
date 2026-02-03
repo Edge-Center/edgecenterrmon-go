@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Edge-Center/edgecenterrmon-go/edgecenter"
+	"github.com/Edge-Center/edgecenteredgemon-go/edgecenter"
 )
 
 // ClientOption — конфигуратор Client (как в edgecentercdn-go).

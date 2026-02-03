@@ -2,7 +2,7 @@ package provider
 
 import (
 	"context"
-	"github.com/Edge-Center/edgecenterrmon-go/edgecenter"
+	"github.com/Edge-Center/edgecenteredgemon-go/edgecenter"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

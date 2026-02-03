@@ -3,7 +3,7 @@ package provider
 import (
 	"context"
 	"encoding/json"
-	"github.com/Edge-Center/edgecenterrmon-go/edgecenter"
+	"github.com/Edge-Center/edgecenteredgemon-go/edgecenter"
 	"net/http"
 	"net/http/httptest"
 	"testing"

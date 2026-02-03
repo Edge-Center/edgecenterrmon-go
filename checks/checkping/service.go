@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/Edge-Center/edgecenterrmon-go/edgecenter"
+	"github.com/Edge-Center/edgecenteredgemon-go/edgecenter"
 )
 
 type Service interface {
